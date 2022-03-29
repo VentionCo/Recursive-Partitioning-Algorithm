@@ -30,4 +30,4 @@ catch (e) {
 ```
 
 ## Modifications Made
-We require that the Recrusive Partitioning Algorithm be used in a JavaScript frontend application. To do this, we build it as a WebAssembly module using the emscripten compiler. Via emscripten, we expose a method called `pack`, which takes the `palletLength`, `palletWidth`, `boxLength`, and `boxWidth` as paramters and returns a json string containing the optimized box locations. We additionally output these positiosn to the `solution.mp`, which was the original implementation.
+We require that the Recrusive Partitioning Algorithm be used in a JavaScript frontend application. To do this, we build it as a WebAssembly module using the emscripten compiler. Via emscripten, we expose a method called `pack`, which takes the `palletLength`, `palletWidth`, `boxLength`, and `boxWidth` as parameters and returns a json string containing the optimized box locations. We additionally output these positions to the `solution.mp`, which was in the original implementation.
