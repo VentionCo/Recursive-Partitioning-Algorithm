@@ -2,7 +2,7 @@
 Modifications made to the work of Rafael Durbano Lobato for use in Vention's Cartesian and Cobot palletizers.
 
 ## Requirements
-- **emcc**: Emscripten compiler, which can be downloaded form a package manager of your choice (see: https://emscripten.org/docs/tools_reference/emcc.html)
+- **emcc**: Emscripten compiler, which can be downloaded from a package manager of your choice (see: https://emscripten.org/docs/tools_reference/emcc.html)
 
 ## Usage
 - Run `make`
